@@ -1,2 +1,2 @@
 # CubeSat
-Implmentation of CubesSat haarware architecture on commercial MPSOC.
+Implamentation of CubesSat haarware architecture on commercial MPSOC.
